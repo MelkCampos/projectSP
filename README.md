@@ -1,12 +1,16 @@
 
 
-
 ## Sobre o projeto
 
 Imagine that you're in a zombie apocalypse. Just you is alive, and you have to create a software to help the others survivos.
 
+
 ### :fallen_leaf: You are welcome survivor!
+
 This is a `GraphQL` project, where you can add survivos with their items (water, food, guns..).
+<p align="center">
+  <img width="300" height="250" src="https://33.media.tumblr.com/48cd9cc09400e5499b6309c6bf1e0a97/tumblr_npuxsqaKaC1tbahjdo1_1280.gif">
+</p> 
 
 ### state: *in production*
 
