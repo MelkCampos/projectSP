@@ -45,7 +45,23 @@ When registration ends, an `id` is created for each survivor. As the picture bel
 ## Search a specific survivor by `ID`
 
 ![Screenshot from 2019-12-06 18-44-49](https://user-images.githubusercontent.com/56616755/70378319-b626a580-18fd-11ea-8008-d99bda93feba.png)
+
+Shown below are `location` and `infected status` updates as `"true"` or `"false"` of the survivor.
+
+### !Importante
+**Application bug report:** In the two `"Mutations"` of updates: `updateLocalization` and `updateStateAboutInfection`, their values in the Mutatios themselves are returned `"null"`. But the data update is `working normally`.
+
+
+### :key: The localization and infect state can be changed only by `id`
+
+
+
+## localização
 ![Screenshot from 2019-12-06 18-45-10](https://user-images.githubusercontent.com/56616755/70378320-b6bf3c00-18fd-11ea-95df-99f969d147fb.png)
+
+## Changed value `infected` to `true`
 ![Screenshot from 2019-12-06 18-45-36](https://user-images.githubusercontent.com/56616755/70378321-b6bf3c00-18fd-11ea-9916-2693aeea5798.png)
+
+## Infected example
 ![Screenshot from 2019-12-06 18-45-42](https://user-images.githubusercontent.com/56616755/70378322-b6bf3c00-18fd-11ea-854a-85484bfc1df4.png)
 
