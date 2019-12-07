@@ -50,6 +50,8 @@ When registration ends, an `id` is created for each survivor. As the picture bel
 ## Search a specific survivor by `ID`
 
 ![Screenshot from 2019-12-06 18-44-49](https://user-images.githubusercontent.com/56616755/70378319-b626a580-18fd-11ea-8008-d99bda93feba.png)
+
+## Listing all the survivors
 ![Screenshot from 2019-12-07 15-19-13](https://user-images.githubusercontent.com/56616755/70378959-d195ae80-1905-11ea-8588-1dc214071612.png)
 
 Shown below are `location` and `infected status` updates as `"true"` or `"false"` of the survivor.
