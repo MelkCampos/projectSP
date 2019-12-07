@@ -67,12 +67,6 @@ Shown below are `location` and `infected status` updates as `"true"` or `"false"
 ## Changed value `infected` to `true`
 ![Screenshot from 2019-12-06 18-45-36](https://user-images.githubusercontent.com/56616755/70378321-b6bf3c00-18fd-11ea-9916-2693aeea5798.png)
 
-
-<p align="center">
-  <img width="300" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/80339015630873534/27597F893C5F27C147F97C1875C956FE11BE97F5/">
-</p> 
-
-
 ### Here is an infected example  
 ![Screenshot from 2019-12-06 18-45-42](https://user-images.githubusercontent.com/56616755/70378322-b6bf3c00-18fd-11ea-854a-85484bfc1df4.png)
 
