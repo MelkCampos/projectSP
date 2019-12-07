@@ -8,6 +8,8 @@ Imagine that you're in a zombie apocalypse. Just you is alive, and you have to c
 ### :fallen_leaf: You are welcome survivor!
 This is a `GraphQL` project, where you can add survivos with their items (water, food, guns..).
 
+### state: *in production*
+
 ### Technologies used for development
 * Javascript - `NodeJS`
 * GraphQL 
@@ -62,6 +64,6 @@ Shown below are `location` and `infected status` updates as `"true"` or `"false"
 ## Changed value `infected` to `true`
 ![Screenshot from 2019-12-06 18-45-36](https://user-images.githubusercontent.com/56616755/70378321-b6bf3c00-18fd-11ea-9916-2693aeea5798.png)
 
-## Infected example
+## Here is an infected example
 ![Screenshot from 2019-12-06 18-45-42](https://user-images.githubusercontent.com/56616755/70378322-b6bf3c00-18fd-11ea-854a-85484bfc1df4.png)
 
