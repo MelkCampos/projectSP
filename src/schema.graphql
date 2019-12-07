@@ -1,0 +1,65 @@
+
+type RegisterSurvivor {
+    
+    id: ID! 
+    name: String! 
+    age: Int! 
+    sex: String! 
+    latitude: Int! 
+    longitude: Int! 
+    infected: Boolean! 
+
+    # Items to add
+    items: [String]
+}
+
+
+type UpdateLocation {
+
+    id: ID!
+    latitude: Int
+    longitude: Int
+}
+
+type UpdateStateOfInfection {
+
+    id: ID!
+    infected: Boolean
+}
+
+type Query {
+
+    survivors: [RegisterSurvivor]
+    survivor(id: ID): RegisterSurvivor
+}
+
+type Mutation {
+
+    createRegister(
+
+        name: String,
+        age: Int,
+        sex: String,
+        latitude: Int,
+        longitude: Int,
+        infected: Boolean,
+        items: [String]
+        ): RegisterSurvivor
+
+
+    updateLocalization(
+
+        id: ID!,
+        latitude: Int,
+        longitude: Int
+    ): UpdateLocation
+
+
+    updateStateAboutInfection(
+
+        id: ID!,
+        infected: Boolean
+    ): UpdateStateOfInfection
+
+}
+
