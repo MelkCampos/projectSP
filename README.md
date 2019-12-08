@@ -1,6 +1,6 @@
 
 
-## Sobre o projeto
+## About the Project
 
 Imagine that you're in a zombie apocalypse. Just you is alive, and you have to create a software to help the others survivos.
 
